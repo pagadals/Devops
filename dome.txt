@@ -135,3 +135,10 @@ some codes will be imported to the github
 $#
 
 #dfga back
+
+second test file modification from visual studio and delete them
+
+
+tell me onething
+
+do onething 
