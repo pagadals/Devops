@@ -113,3 +113,5 @@ commit to local directory agian from commite stage
 git statsh apply command check 
 
 *******************************************************
+
+doing directly from guthub changes
