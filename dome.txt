@@ -106,4 +106,10 @@ asdfj;asj
 aseoewurwe
 ero;weu
 
+commit to local directory agian from commite stage
 
+)()()()()(()()()()()()()()()()()()()()()()()()()())
+
+git statsh apply command check 
+
+*******************************************************
